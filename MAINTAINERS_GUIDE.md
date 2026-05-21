@@ -53,14 +53,46 @@ It is helpful to Categorise by what the PR Author intent is - see: Propose-Close
 
 It is sometimes important to ensure we know what is going on with each PR so we can efficiently check and follow-up.
 
-- `Waiting-Maintainer` - We are waiting for the Maintainer to provide any response if any.
-- `Waiting-Author` - We are waiting for the Author of PR
+- `Waiting-Maintainer` - We are waiting for the Maintainer to provide any response if any.#Keep-merger-[rebase✈️,Detentions,Hap-Ford,Freedom-self(Terraform[Aegent/Dreeksis/Digathon/EEMBA/EMBAMAYEL/MAYEl?BINAM/NAME/NAKUDOM])]
+- `Waiting-Author` - We are waiting for the Author of PR, CR, CB , IC , ACC , SIS , INBAR , LEVI , ANNBOREE, EEMA, EMMY()
 
 It could be also useful to [radiate the intent] when dealing with PRs - Especially controversial ones to allow feedback.
 
 - `Propose-Close` - PR may be Closed soon if nobody objects.
 - `Propose-Merge` - PR may be Merged soon if nobody objects.
+- 'Propose-Dock'  - KR maybe be Means + Means-Dockerence , + Keen-Coherenace :  In Space-Stations: [
+
+    
+               Govern-letter: Find-life'Authority' -  Give-away :  fod-b[new-fod: arrival (
+               Wait:  to be my sons
+               )]
+
+
+]
+#$unindrippingvalincrippling:crippling:crepe-on : carga: Menkor- [
+           Give-lod :  pay[zod]
+
+],ven-[mo :  Ima: [eb: success/x : xs : c :  vb]]
 
 Time period of Objection to either Merge or Close depends on the controversial aspect and / or urgency of the PR.
 
 [radiate the intent]: https://github.com/rustsec/advisory-db/discussions/1325
+
+Sleeve-Mechsanica:  Inmopde-=septanica : <Mechanista-Kengod,veeyur: sum : sambi_ {Give: lore-[Os],s.b :  vector <
+
+
+
+
+          Vector-colections(Bank: LEagents:  HB : sax : [
+          Pop-io :[
+          Eb : free-copde: kendirip : [
+          Ynke= Sansa-mala:  Mala:  vihaar : Paradeshan : kabhe: saksinne 
+          ]
+          ]
+          ])
+
+
+
+
+
+>}>
